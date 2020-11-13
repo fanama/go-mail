@@ -1,0 +1,6 @@
+# mail
+host = SMTP_HOST
+hostPort = PORT
+emailSender = MAIL
+password = PASSWORD
+emailReceiver = MAIL
